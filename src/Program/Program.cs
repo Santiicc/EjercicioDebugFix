@@ -10,6 +10,7 @@ using System;
 /// </summary>
 namespace WordsPhrases
 {
+    
     public class Program
     {
         /// <summary>
